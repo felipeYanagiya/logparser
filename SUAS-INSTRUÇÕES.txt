@@ -1,2 +1,4 @@
-Coloque aqui suas instruções ou comentários que ache útil/relevantes para possamos ler 
-quando estivermos avaliando a sua solução
+Aplicacao feita para rodar atraves de um input na pasta resources. Como nao ha criterio de aceite de como receber
+o texto, fiz deste jeito, alterar o input para casos de testes ou entao alterar o modo para entrar com varios arquivos
+de entrada.
+Tambem, como nao ha criterio de aceite de como mostrar a lista de ranking dos jogadores, deixei no stdout o print da lista.
